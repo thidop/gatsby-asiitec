@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: ASIITEC INFORMATIQUE
 image: /img/home-jumbotron.jpg
 heading: ASIITEC INFORMATIQUE
 subheading: Assistance et dépannage informatique
