@@ -6,16 +6,18 @@ heading: ASIITEC INFORMATIQUE
 subheading: Assistance et dépannage informatique
 mainpitch:
   title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  description: Société spécialisée dans la vente, l’installation et la maintenance
+    de matériel informatique. Nous vous proposons toute une gamme de services
+    comme l’achat, l’installation et l’entretien de vos ordinateurs ,
+    ordinateurs portables, imprimantes et serveurs. Nous installation et
+    administrons votre système et réseau. Conseil à l’achat, installation et
+    dépannage sur rendez-vous au 01 60 49 09 98. Nous nous engageons à vous
+    apporter des solutions de qualité et adaptées à vos besoins en terme de
+    fiabilité, de réactivité et de proximité.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
